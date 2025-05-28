@@ -1,7 +1,7 @@
 ---
 .title = "Drama is a Virus",
 .date = @date("2025-05-28T00:00:00"),
-.author = Nathan Franck",
+.author = "Nathan Franck",
 .layout = "post.shtml",
 .draft = false,
 --- 
